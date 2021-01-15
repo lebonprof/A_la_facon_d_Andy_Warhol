@@ -1,8 +1,8 @@
 # A la façon d'Andy Warhol
 
-* Cette activité est très librement inspirée par une proposition de l'Acédemie de Nantes.*
+*Cette activité est très librement inspirée par une proposition de l'Acédemie de Nantes.*
 
-Le but est d'obtenir un résultat faisant penser à ceretains tableaux d'Andy Warhol
+Le but est d'obtenir un résultat faisant penser à certains tableaux d'[Andy Warhol](https://www.qwant.com/?q=andy%20warhol%20oeuvre&t=images).
 
 
 
