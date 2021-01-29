@@ -1,3 +1,12 @@
+# Daltonisme
+
+*Cette activité est très librement inspirée par une proposition de l'Acédemie de Rouen.*
+
+Le but est de simuler la vision d'un daltonien.
+
+
+
+
 # A la façon d'Andy Warhol
 
 *Cette activité est très librement inspirée par une proposition de l'Acédemie de Nantes.*
@@ -9,4 +18,4 @@ La banque d'images a été créé à partir d'images de personnalités du monde 
 
 
 
-Voici le lien pour utiliser le notebook : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lebonprof/A_la_facon_d_Andy_Warhol/HEAD)
+Voici le lien pour utiliser les 2 notebooks : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lebonprof/A_la_facon_d_Andy_Warhol/HEAD)
